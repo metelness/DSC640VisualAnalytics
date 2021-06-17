@@ -21,3 +21,5 @@ Blog location: ttps://dsc630acurryblogpost.blogspot.com/2021/02/yes-you-will-liv
 
 ### Task 4
 The final task was to create an infographic that could be used in a major publication. It needed to be precise and convey that airplanes were safe.
+
+Also included is the presentation that was provided to the instructor. The audio file is not included due to size limitations. 
