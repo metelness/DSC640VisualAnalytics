@@ -10,6 +10,8 @@ The first task was to create a dashboard for internal team members to study. The
 ### Task 2
 The second task was to convey the same message as task 1, but to the executive team.
 
+No new code for this task, as the dashboards reworked the existing dataset. 
+
 ### Task 3
 The 3rd task was to create a blog for the general public to see. 
 - All items are related to the blog post about the safety of flying. 
