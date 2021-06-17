@@ -18,5 +18,4 @@ The 3rd task was to create a blog for the general public to see.
 Blog location: ttps://dsc630acurryblogpost.blogspot.com/2021/02/yes-you-will-live-if-you-fly.html
 
 ### Task 4
-
-
+The final task was to create an infographic that could be used in a major publication. It needed to be precise and convey that airplanes were safe.
